@@ -8,3 +8,4 @@ A personal collection of python snippet
 - **split_into_chunks.py** - Split a string into chunks of a specific length
 - **list_reverse.py** - Simple reverse a list
 - **longest_string.py** - find the longest string in the Zen Of Python text.
+- **str_unicode_convert.py** - unicode string converted and reverse to bytes
